@@ -68,6 +68,7 @@
 </p>
 <br><br><br>
 
+<h2 align="center">Badges</h2>
 <p align="center">
 <a href="https://www.credly.com/badges/e8b4acf1-be97-48b5-8920-36658c419673/public_url">
 <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" height="120" />
