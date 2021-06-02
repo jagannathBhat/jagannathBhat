@@ -69,5 +69,24 @@
 <br><br><br>
 
 <p align="center">
+<a href="https://www.credly.com/badges/e8b4acf1-be97-48b5-8920-36658c419673/public_url">
+<img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" height="120" />
+</a>
+<a href="https://www.credly.com/badges/1407f5d9-9f3c-4e13-b74f-0a40c84427df/public_url">
+<img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" height="120" />
+</a>
+<a href="https://www.credly.com/badges/e01328ae-c57e-4f4d-810b-a4873fec4af0/public_url">
+<img src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" height="120" />
+</a>
+<a href="https://www.credly.com/badges/6224be36-7df7-4c75-ad17-a0151a4bd405/public_url">
+<img src="https://images.credly.com/size/340x340/images/f03fe042-9bbb-468a-b28a-8050b3b8e9ee/2021_Cloud_600x600_Bronze.png" height="120" />
+</a>
+<a href="https://www.credly.com/badges/0e2d4e61-9c9a-48bc-a730-485b9800bb43/public_url">
+<img src="https://images.credly.com/size/340x340/images/d4a25bf3-51ee-4f27-863e-3fb9af87add9/2021_CYBERSECURITY_600x600_Bronze.png" height="120" />
+</a>
+</p>
+<br><br><br>
+
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jagannathbhat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Statistics"/>
 </p><br>
